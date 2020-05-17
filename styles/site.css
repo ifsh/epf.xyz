@@ -503,8 +503,8 @@ footer a {
 }
 .article li {
   line-height: 2rem;
-  margin-bottom: 1.142857142857143rem;
-  margin-left: 1.142857142857143rem;
+  margin-bottom: 0rem;
+  margin-left: 2rem;
   padding-left: 0.2rem;
   color: #db4d52;
 }
@@ -542,7 +542,7 @@ footer a {
 }
 .content p {
   line-height: 2rem;
-  margin: 2rem 0;
+  margin: 1rem 0;
 }
 @media screen and (max-width: 479px) {
   .content p {
@@ -576,16 +576,6 @@ footer a {
 }
 .content a {
   color: #db4d52;
-}
-.content a:before {
-  content: '[';
-  margin: 0 2px;
-  color: #a0a0a0;
-}
-.content a:after {
-  content: ']';
-  margin: 0 2px;
-  color: #a0a0a0;
 }
 .content a.headerlink:after,
 .content a.fancybox:after,
