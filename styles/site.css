@@ -258,7 +258,7 @@ a .back-arrow-left {
   -ms-flex-pack: center;
   -webkit-justify-content: center;
   justify-content: center;
-  outline: 3px solid #fff;
+  outline: 0px solid #fff;
   outline-offset: -3px;
 }
 .avatar img {
