@@ -404,13 +404,6 @@ footer a {
 .post {
   padding: 0;
 }
-.slide-hide {
-  height: 0;
-  -webkit-transition: all 1s ease-in-out;
-  -moz-transition: all 1s ease-in-out;
-  -ms-transition: all 1s ease-in-out;
-  transition: all 1s ease-in-out;
-}
 .article {
   background-color: #fbfbfb;
   padding: 1rem;
