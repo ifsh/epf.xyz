@@ -241,7 +241,6 @@ a .back-arrow-left {
 .avatar {
   width: 4rem;
   height: 4rem;
-  background-color: #fff;
   display: -webkit-box;
   display: -moz-box;
   display: -webkit-flex;
