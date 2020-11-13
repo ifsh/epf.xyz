@@ -6,13 +6,13 @@
 		<image>
 			<url>https://bds.wht.one/img/logo.jpg</url>
 			<title>不动声色</title>
-			<link>https://bds.wht.one/img</link>
+			<link>https://bds.wht.one</link>
 		</image>
 		<generator>BDS</generator>
 		<lastBuildDate>Fri, 13 Nov 2020 02:08:21 GMT</lastBuildDate>
 		<atom:link href="https://bds.wht.one/rss.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[BDS]]></author>
-		<copyright><![CDATA[BDS]]></copyright>
+		<copyright><![CDATA[BDS © 2019 - 2020]]></copyright>
 		<language><![CDATA[zh-cn]]></language>
 		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
 		<itunes:author>BDS</itunes:author>
