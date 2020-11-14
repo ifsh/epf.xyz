@@ -1,5 +1,6 @@
 hr {
-  border: 1px dashed #ddd;
+  border: px dashed #ddd;
+  margin: 20px 5px;
 }
 strong {
   font-weight: bold;
