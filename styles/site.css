@@ -406,13 +406,13 @@ footer a {
 }
 .article {
   background-color: #fbfbfb;
-  padding: 1rem;
+  padding: 1rem 1rem 1px 1rem;
   position: relative;
   margin-bottom: 0rem;
 }
 @media screen and (max-width: 479px) {
   .article {
-    padding: 1rem;
+    padding: 1rem 1rem 1px 1rem;
     line-height: 2rem;
   }
 }
