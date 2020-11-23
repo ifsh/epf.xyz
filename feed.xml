@@ -10,7 +10,7 @@
 		</image>
 		<generator>BDS</generator>
 		<lastBuildDate>Fri, 13 Nov 2020 02:08:21 GMT</lastBuildDate>
-		<atom:link href="https://bds.wht.one/rss.xml" rel="self" type="application/rss+xml"/>
+		<atom:link href="https://bds.wht.one/feed.xml" rel="self" type="application/rss+xml"/>
 		<author><![CDATA[BDS]]></author>
 		<copyright><![CDATA[BDS © 2019 - 2020]]></copyright>
 		<language><![CDATA[zh-cn]]></language>
