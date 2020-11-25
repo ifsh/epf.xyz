@@ -20,6 +20,7 @@
     <itunes:type>rss2</itunes:type>
     <itunes:keywords>BDS,录音,播客,独立播客,华语播客,不动声色,耳旁风,炸裂志</itunes:keywords>
     <language>zh-CN</language>
+    <itunes:duration>HH:MM:SS</itunes:duration>
     
     <item>
       <title>11. 探索厦门</title>
@@ -97,7 +98,7 @@
       <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-6-7/88284071-44100-2-f2050a86c43e1.mp3" length="6989--IN_BYTES" type=""/>
       <guid>https://bds.wht.one/11/</guid>
       <pubDate>Tue, 07 Jul 2020 15:04:12 GMT</pubDate>
-      <itunes:duration>XX:YY:AA</itunes:duration>
+      <itunes:duration>HH:MM:SS</itunes:duration>
       <psc:chapters version="1.2" xmlns:psc="http://podlove.org/simple-chapters">
         
       </psc:chapters>
