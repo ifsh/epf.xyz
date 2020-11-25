@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
   <channel>
     <title>不动声色</title>
-    <link>https://bds.wht.one/</link>
+    <link>https://bds.wht.one</link>
     <copyright>BDS © 2019 - 2020</copyright>
     <itunes:subtitle></itunes:subtitle>
     <itunes:author>BDS</itunes:author>
@@ -16,8 +15,8 @@
     <itunes:category text="Society &amp; Culture">
       <itunes:category text="Society &amp; Culture"/>
     </itunes:category>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:type>rss2</itunes:type>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
     <itunes:keywords>BDS,录音,播客,独立播客,华语播客,不动声色,耳旁风,炸裂志</itunes:keywords>
     <language>zh-CN</language>
     <itunes:duration>HH:MM:SS</itunes:duration>
@@ -95,7 +94,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/11.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-6-7/88284071-44100-2-f2050a86c43e1.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-6-7/88284071-44100-2-f2050a86c43e1.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/11/</guid>
       <pubDate>Tue, 07 Jul 2020 15:04:12 GMT</pubDate>
       <itunes:duration>HH:MM:SS</itunes:duration>
@@ -132,7 +131,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/10.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-4-19/74604369-44100-2-8b79cfb968f24.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-4-19/74604369-44100-2-8b79cfb968f24.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/10/</guid>
       <pubDate>Tue, 19 May 2020 05:48:18 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
@@ -185,7 +184,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/09.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-29/68709522-44100-2-8a7e268266961.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-29/68709522-44100-2-8a7e268266961.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/9/</guid>
       <pubDate>Wed, 29 Apr 2020 16:59:20 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
@@ -225,7 +224,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/08.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61911166-44100-2-793c360f30085.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61911166-44100-2-793c360f30085.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/8/</guid>
       <pubDate>Thu, 23 Jan 2020 05:48:52 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
@@ -261,7 +260,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/07.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61910639-44100-2-8ec4ccb1abf4d.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61910639-44100-2-8ec4ccb1abf4d.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/7/</guid>
       <pubDate>Tue, 17 Dec 2019 10:15:33 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
@@ -298,7 +297,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/06.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61908147-44100-2-15965fda6b0dc.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61908147-44100-2-15965fda6b0dc.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/6/</guid>
       <pubDate>Sun, 15 Dec 2019 15:05:34 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
@@ -336,7 +335,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/05.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61904257-44100-2-04ed29ca00c2d.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61904257-44100-2-04ed29ca00c2d.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/5/</guid>
       <pubDate>Wed, 04 Sep 2019 03:38:28 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
@@ -373,7 +372,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/04.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61903685-44100-2-d423c1273473d.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61903685-44100-2-d423c1273473d.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/4/</guid>
       <pubDate>Fri, 12 Jul 2019 07:17:57 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
@@ -410,7 +409,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/03.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61902848-44100-2-074426b40b68d.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61902848-44100-2-074426b40b68d.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/3/</guid>
       <pubDate>Thu, 20 Jun 2019 04:02:23 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
@@ -447,7 +446,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/02.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61901715-44100-2-9a2a855410d26.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-5/61901715-44100-2-9a2a855410d26.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/2/</guid>
       <pubDate>Sun, 09 Jun 2019 09:45:42 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
@@ -484,7 +483,7 @@
       <itunes:subtitle></itunes:subtitle>
       <itunes:summary></itunes:summary>
       <itunes:image href="https://bds.wht.one/img/01.jpg"/>
-      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-4/61723341-44100-2-68c2050e04a8e.mp3" length="6989--IN_BYTES" type=""/>
+      <enclosure url="https://chtbl.com/track/341GD8/https://d3ctxlq1ktw2nl.cloudfront.net/production/2020-3-4/61723341-44100-2-68c2050e04a8e.mp3" length="6989--IN_BYTES" type="full"/>
       <guid>https://bds.wht.one/1/</guid>
       <pubDate>Wed, 29 May 2019 06:28:47 GMT</pubDate>
       <itunes:duration>XX:YY:AA</itunes:duration>
