@@ -239,6 +239,15 @@ a .back-arrow-left {
   display: box;
   display: flex;
 }
+.header-right {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  padding-bottom: 5px;
+}
 .avatar {
   width: 4rem;
   height: 4rem;
@@ -304,7 +313,7 @@ a .back-arrow-left {
   margin-left: 2rem;
 }
 .navigation li a {
-  color: #a0a0a0;
+  color: #db4d52;
 }
 .navigation li a:after {
   display: none;
@@ -518,7 +527,7 @@ footer a {
 .title {
   font-size: 18px;
   font-weight: bold;
-  margin-bottom: 1.142857142857143rem;
+  margin-bottom: 0.5rem;
   line-height: 1.6rem;
 }
 .home .title {
@@ -527,7 +536,6 @@ footer a {
 @media screen and (max-width: 479px) {
   .post .title {
     line-height: 2.8rem;
-    font-size: 1.6rem;
   }
 }
 .title:after {
