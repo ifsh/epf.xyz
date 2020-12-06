@@ -1,6 +1,10 @@
 hr {
-  border: px dashed #ddd;
-  margin: 20px 5px;
+  display: block;
+  width: 90%;
+  max-width: 100px;
+  border: 0;
+  border-top: 1px solid rgba(0,0,0,0.04);
+  margin: 1.42em auto 1.84em;
 }
 strong {
   font-weight: bold;
